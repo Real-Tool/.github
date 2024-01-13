@@ -1,4 +1,4 @@
-![Logo](profile/RealTool.png)
+![Logo](https://raw.githubusercontent.com/Real-Tool/.github/main/profile/RealTool.png)
 
 # RealTool
 
