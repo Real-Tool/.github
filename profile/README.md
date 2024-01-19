@@ -3,6 +3,9 @@
 # RealTool
 Persoonlijke connecties met uw klanten als makelaar.
 
+## Wat doen wij?
+[<img src="https://raw.githubusercontent.com/Real-Tool/.github/main/profile/Confirmation_mockup.png" width="300px" />](https://raw.githubusercontent.com/Real-Tool/.github/main/profile/Confirmation_mockup.png)[<img src="https://raw.githubusercontent.com/Real-Tool/.github/main/profile/Reminder_mockup.png" width="300px" />](https://raw.githubusercontent.com/Real-Tool/.github/main/profile/Reminder_mockup.png)
+
 ## Wie zijn wij?
 ![Logo](https://raw.githubusercontent.com/Real-Tool/.github/main/profile/Team.jpeg)
 
